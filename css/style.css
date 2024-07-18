@@ -1,0 +1,30 @@
+body{
+    background-color: #333;
+}
+div{
+    text-align: center;
+}
+label{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+button{
+    font-size: 1.5em;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+}
+#acrescentar{
+    background-color: rgb(30, 168, 30);
+}
+#diminuir{
+    background-color: rgb(201, 28, 28);
+}
+#resetar{
+    background-color: rgb(211, 148, 32);
+}
